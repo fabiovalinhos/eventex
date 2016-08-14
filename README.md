@@ -2,6 +2,10 @@
 
 Sistema de eventos encomendado pela morena.
 
+[![Build Status](https://travis-ci.org/fabiovalinhos/eventex.svg?branch=master)](https://travis-ci.org/fabiovalinhos/eventex)
+[![Code Health](https://landscape.io/github/fabiovalinhos/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/fabiovalinhos/eventex/master)
+
+
 ##Como desenvolver?
 
 1. Clone o repositório
